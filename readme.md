@@ -1,6 +1,8 @@
 # Prosper Loan Data
 ## by Peter H. Schuld
 
+#### Mentor:
+ Lucrezia Morvilli, London
 
 ## Dataset
 
